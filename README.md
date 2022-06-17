@@ -1,1 +1,2 @@
 # BC_Data_Structure_Course_Design
+本项目是大一数据结构小学期时写的项目，编写时能力和经验不足，可能还有些bug，仅供学习参考
